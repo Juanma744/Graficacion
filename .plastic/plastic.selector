@@ -1,0 +1,4 @@
+repository "Graficacion_25_B/Graficacion_25_B@4674062392535@cloud"
+  path "/"
+    br "/main"
+    co "/main"
