@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b20fa2e09fd01f74ea37691a93338db7
+  productGUID: 984ba5dc21d8cf340a270446b35c36a7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Graficacion_25_B
+  productName: TEPACHE
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -567,8 +567,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthStep: 0.2
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
-  scriptingDefineSymbols:
-    Standalone: LEVELPLAY_DEPENDENCIES_INSTALLED
+  scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -600,14 +599,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Graficacion_25_B
+  metroPackageName: TEPACHE
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Graficacion_25_B
+  metroApplicationDescription: TEPACHE
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -676,11 +675,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4d596e46-3b3f-45db-b019-ddcd5752e03d
+  cloudProjectId: df963506-83d0-495c-8b93-e5e01a1ec499
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Graficacion_25_B
-  organizationId: juanma744
+  projectName: TEPACHE
+  organizationId: hectorunit7
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
